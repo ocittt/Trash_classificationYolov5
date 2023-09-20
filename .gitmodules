@@ -1,3 +1,6 @@
 [submodule "Trash Test-v4/labelImg"]
 	path = Trash Test-v4/labelImg
 	url = https://github.com/HumanSignal/labelImg
+[submodule "Trash Test-v4/yolov5"]
+	path = Trash Test-v4/yolov5
+	url = https://github.com/ultralytics/yolov5
