@@ -1,0 +1,3 @@
+[submodule "Trash Test-v4/labelImg"]
+	path = Trash Test-v4/labelImg
+	url = https://github.com/HumanSignal/labelImg
